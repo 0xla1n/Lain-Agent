@@ -15,7 +15,7 @@
 ![Discord.py](https://img.shields.io/badge/discord.py-2.3.0+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-> Lain build for hackers by a broke hacker, don't hesitate to star the project if you like it and support the author 0xla1n!
+> Lain built for hackers by a broke hacker, don't hesitate to star the project if you like it and support the author 0xla1n!
 
 ## Features
 
