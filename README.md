@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Lain</b> Lain Agent — Level up your CTF team game!
+  <b>Lain</b> Agent — Level up your CTF team game!
   🧠 Collaboration • 📊 Progress Tracking • 🕵️ Solving challenges
 </p>
 
@@ -14,6 +14,8 @@
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.3.0+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+> Lain build for hackers by a broke hacker, don't hesitate to star the project if you like it and support the author 0xla1n!
 
 ## Features
 
@@ -498,6 +500,10 @@ Having issues?
 ---
 
 ## 📸 Gallery
+
+
+### Player Profile 
+![Player Profile](./screenshots/profile.png)
 
 ### First Blood Announcements 🩸
 ![First Blood](./screenshots/firstblood.png)
