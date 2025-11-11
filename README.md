@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lain.png"  alt="Lain Logo"/>
+  <img src="lain.png" width="300" height="500" alt="Lain Logo"/>
 </p>
 
 <p align="center">
