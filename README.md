@@ -1,6 +1,15 @@
-# Lain CTF Team Manager
+<p align="center">
+  <img src="assets/lain.png"  alt="Lain Logo"/>
+</p>
 
-A comprehensive Discord bot for managing Capture The Flag (CTF) team activities, tracking progress, and coordinating team efforts.
+<p align="center">
+  <b>Lain</b> Lain Agent — Level up your CTF team game!
+  🧠 Collaboration • 📊 Progress Tracking • 🕵️ Solving challenges
+</p>
+
+
+
+# Lain CTF Team Manager
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![Discord.py](https://img.shields.io/badge/discord.py-2.3.0+-blue.svg)
